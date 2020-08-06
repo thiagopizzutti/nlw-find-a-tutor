@@ -5,7 +5,7 @@ const app = express()
 app.get('/users', (request, response) => {
   const users = [
     {
-      name: "Thiago",
+      name: "Pedro",
       age: 37
     }
   ]
